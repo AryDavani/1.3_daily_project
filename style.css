@@ -1,0 +1,158 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+body {
+  font-family: arial;
+}
+
+#site_header {
+  background-color: #ff8523;
+  padding: 20px 0px 20px 15px;
+}
+
+nav a {
+color: white;
+border-radius: 5px;
+border: 1px solid;
+border-color: white;
+padding: 5px 20px 5px 20px;
+text-decoration: none;
+font-size: 0.8em;
+font-weight: bold;
+}
+
+h2 {
+  color: #1fabe5;
+  padding-left: 15px;
+}
+
+p {
+  padding-left: 15px;
+}
+
+p a {
+  color: #1fabe5;
+}
+
+h3 {
+  padding-left: 15px;
+  color: #1fabe5;
+}
+
+ul {
+  font-weight: bold;
+}
+
+.main_navigation {
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+table {
+  border: #1fabe5 1px solid;
+  margin-left: 15px;
+}
+
+thead tr {
+  background-color: #1fabe5;
+}
+
+thead tr td {
+  color: white;
+  padding: 7px;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+}
+
+a img {
+  height: 50px;
+  width: 250px;
+}
+
+td {
+  border: #1fabe5 1px solid;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+section h2 {
+  padding-top: 30px;
+  border-top: #dddddd 3px solid;
+}
+
+form {
+  background-color: #dddddd;
+  margin-left: 15px;
+  margin-right: 650px;
+  padding-left: 15px;
+  padding-top: 15px;
+  border-radius: 3px;
+  padding-bottom: 15px;
+}
+
+.name {
+  background-color: #ff8523;
+  padding: 20px;
+  margin-right: 15px;
+  border-radius: 3px;
+  color: white;
+  font-size: 0.8em;
+}
+
+#first_name {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 50px;
+  margin-right: 10px;
+}
+
+#last_name {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 50px;
+  padding-left: 10px;
+}
+
+.city_container {
+  padding: 15px 0px 15px 0px;
+}
+
+.submit_container {
+  padding-top:15px;
+}
+
+#submit_button {
+  background-color: #1fabe5;
+  padding: 8px 12px 8px 12px;
+  color: white;
+  border-radius: 3px;
+  border-style: none;
+  text-transform: uppercase;
+}
+
+#bio {
+  padding-right: 400px;
+  padding-left: 6px;
+  padding-top: 6px;
+}
+
+textarea {
+  margin-top: 10px;
+  border: #1fabe5 1px solid;
+}
